@@ -1,0 +1,2 @@
+# Tasks
+HTML defines the structure and content of web pages, using tags and elements to organize information. CSS complements HTML by applying styles, such as colors, fonts, and layouts, to make web pages visually appealing and user-friendly. This collaboration between HTML and CSS forms the basis for designing and presenting content on the internet, ensuring a seamless and engaging user experience.
